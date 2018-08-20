@@ -9,11 +9,11 @@
   "author": "Jack·s",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.0.1",
+    "async": "^2.6.1",
     "cheerio": "^0.22.0",
     "color": "^0.11.3",
     "eventproxy": "^0.3.5",
-    "express": "^4.14.0",
+    "express": "^4.16.3",
     "superagent": "^2.3.0"
   },
   "devDependencies": {
